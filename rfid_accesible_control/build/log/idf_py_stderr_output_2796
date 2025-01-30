@@ -1,0 +1,10 @@
+CMake Error at C:/Espressif/frameworks/esp-idf-v5.3.1/tools/cmake/component.cmake:314 (message):
+  Include directory
+  'C:/eclipse/eclipse-workspace/rfid_accesible_control/main/components/rfid/internal'
+  is not a directory.
+Call Stack (most recent call first):
+  C:/Espressif/frameworks/esp-idf-v5.3.1/tools/cmake/component.cmake:482 (__component_add_include_dirs)
+  main/CMakeLists.txt:4 (idf_component_register)
+
+
+ninja: error: rebuilding 'build.ninja': subcommand failed
